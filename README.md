@@ -3,7 +3,7 @@ Red Hat Bluecurve theme for openSUSE KDE 3
 
 <img src="screenshot.png">
 
-Includes:
+## Includes
   * Bluecurve KDE 3 theme for openSUSE
   * Bluecurve GTK 2 engine and theme
   * Bluecurve icon set
