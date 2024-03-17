@@ -16,7 +16,7 @@ You must have KDE 3 installed on openSUSE for this theme to work. For instructio
 Extract the tarball to the root directory
 
 ```bash
-  sudo tar -xvzf bluecurve-opensuse.tar.gz -C /
+sudo tar -xvzf bluecurve-opensuse.tar.gz -C /
 ```
 
 ## Authors
